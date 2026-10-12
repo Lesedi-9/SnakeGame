@@ -7,7 +7,7 @@ A fast, neon-styled Snake game built with vanilla HTML, CSS, and Canvas.
 - Swipe on mobile
 
 ## Live Demo
-https://Lesedi-9.github.io/SnakeGame/
+https://github.com/Lesedi-9/SnakeGame.git
 
 ## Tech
 - HTML5 Canvas
