@@ -1,5 +1,4 @@
 # Neon Snake
-
 A fast, neon-styled Snake game built with vanilla HTML, CSS, and Canvas.
 
 ## Controls
@@ -8,9 +7,16 @@ A fast, neon-styled Snake game built with vanilla HTML, CSS, and Canvas.
 - Swipe on mobile
 
 ## Live Demo
-https://your-username.github.io/your-repo-name/
+https://Lesedi-9.github.io/SnakeGame/
 
 ## Tech
 - HTML5 Canvas
 - JavaScript
 - CSS
+
+## Features
+- Smooth game loop with delta timing
+- Particle effects and screen shake
+- Responsive canvas sizing
+- Local high score with localStorage
+- Keyboard + touch support
